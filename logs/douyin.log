@@ -1,0 +1,18 @@
+2025-07-15 17:17:58.499 | INFO     | uploader.douyin_uploader.main:douyin_setup:43 - [+] cookie文件不存在或已失效，即将自动打开浏览器，请扫码登录，登陆后会自动生成cookie文件
+2025-07-15 17:50:14.072 | INFO     | uploader.douyin_uploader.main:upload:111 - [+]正在上传-------男子为了心爱之人每天坚守❤️‍🩹.mp4
+2025-07-15 17:50:14.073 | INFO     | uploader.douyin_uploader.main:upload:113 - [-] 正在打开主页...
+2025-07-15 17:50:18.848 | INFO     | uploader.douyin_uploader.main:upload:132 - [+] 成功进入version_2发布页面!
+2025-07-15 17:50:19.845 | INFO     | uploader.douyin_uploader.main:upload:142 -   [-] 正在填充标题和话题...
+2025-07-15 17:50:21.577 | INFO     | uploader.douyin_uploader.main:upload:158 - 总共添加4个话题
+2025-07-15 17:50:21.580 | SUCCESS  | uploader.douyin_uploader.main:upload:166 -   [-]视频上传完毕
+2025-07-15 17:50:32.544 | INFO     | uploader.douyin_uploader.main:upload:208 -   [-] 视频正在发布中...
+2025-07-15 17:51:01.779 | SUCCESS  | uploader.douyin_uploader.main:upload:205 -   [-]视频发布成功
+2025-07-15 17:51:02.224 | SUCCESS  | uploader.douyin_uploader.main:upload:213 -   [-]cookie更新完毕！
+2025-07-15 17:54:33.501 | INFO     | uploader.douyin_uploader.main:upload:111 - [+]正在上传-------男子为了心爱之人每天坚守❤️‍🩹.mp4
+2025-07-15 17:54:33.502 | INFO     | uploader.douyin_uploader.main:upload:113 - [-] 正在打开主页...
+2025-07-15 17:54:39.363 | INFO     | uploader.douyin_uploader.main:upload:132 - [+] 成功进入version_2发布页面!
+2025-07-15 17:54:40.369 | INFO     | uploader.douyin_uploader.main:upload:142 -   [-] 正在填充标题和话题...
+2025-07-15 17:54:41.460 | INFO     | uploader.douyin_uploader.main:upload:158 - 总共添加4个话题
+2025-07-15 17:54:41.470 | SUCCESS  | uploader.douyin_uploader.main:upload:166 -   [-]视频上传完毕
+2025-07-15 17:54:50.737 | SUCCESS  | uploader.douyin_uploader.main:upload:205 -   [-]视频发布成功
+2025-07-15 17:54:51.210 | SUCCESS  | uploader.douyin_uploader.main:upload:213 -   [-]cookie更新完毕！
